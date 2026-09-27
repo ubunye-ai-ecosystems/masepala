@@ -7,6 +7,8 @@ what an ordinary resident can do about it.
 
 **Live: [masepala.vercel.app](https://masepala.vercel.app)** · Part of [Ubunye AI Ecosystems](https://github.com/ubunye-ai-ecosystems), built on the [Ubunye Engine](https://github.com/ubunye-ai-ecosystems/ubunye_engine).
 
+**Paused work and what it waits on: [NEXT_STEPS.md](NEXT_STEPS.md).**
+
 "You are the government. This is your information."
 
 <p align="center">
