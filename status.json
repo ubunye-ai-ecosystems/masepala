@@ -1,0 +1,206 @@
+{
+ "CouncillorReader-7ecf3506e8": {
+  "fetched_at": "2026-11-20T12:36+00:00",
+  "label": "ward_councillors",
+  "ok": true,
+  "rows": 105
+ },
+ "QlfsReader-7ecf3506e8": {
+  "fetched_at": "2026-11-20T12:34+00:00",
+  "label": "statssa_qlfs",
+  "ok": true,
+  "rows": 2018
+ },
+ "SapsCrimeReader-7ecf3506e8": {
+  "fetched_at": "2026-11-20T12:34+00:00",
+  "label": "saps_crime",
+  "ok": true,
+  "rows": 41090
+ },
+ "TreasuryCubeReader-2d97b447ea": {
+  "fetched_at": "2026-11-20T12:25+00:00",
+  "label": "treasury_cube capital_v2",
+  "ok": true,
+  "rows": 15549
+ },
+ "TreasuryCubeReader-aefb3c6dc1": {
+  "fetched_at": "2026-11-20T12:28+00:00",
+  "label": "treasury_cube incexp_v2",
+  "ok": true,
+  "rows": 29006
+ },
+ "TreasuryCubeReader-ecea00868f": {
+  "fetched_at": "2026-11-20T12:25+00:00",
+  "label": "treasury_cube incexp_v2",
+  "ok": true,
+  "rows": 91052
+ },
+ "TreasuryFactsReader-08043b06d2": {
+  "fetched_at": "2026-11-20T12:30+00:00",
+  "label": "treasury_facts uifw",
+  "ok": true,
+  "rows": 4626
+ },
+ "TreasuryFactsReader-14cebaac0f": {
+  "fetched_at": "2026-11-20T12:30+00:00",
+  "label": "treasury_facts municipalities",
+  "ok": true,
+  "rows": 292
+ },
+ "TreasuryFactsReader-9a26d602c0": {
+  "fetched_at": "2026-11-20T12:25+00:00",
+  "label": "treasury_facts audit_opinions",
+  "ok": true,
+  "rows": 3688
+ },
+ "VulekamaliProjectsReader-7ecf3506e8": {
+  "fetched_at": "2026-11-20T12:36+00:00",
+  "label": "vulekamali_projects",
+  "ok": true,
+  "rows": 15085
+ },
+ "WardReader-4d09808109": {
+  "fetched_at": "2026-11-20T12:37+00:00",
+  "label": "mdb_wards",
+  "ok": true,
+  "rows": 4468
+ },
+ "WazimapGeographyReader-41ec30a5e9": {
+  "fetched_at": "2026-11-20T12:36+00:00",
+  "label": "wazimap_geography",
+  "ok": true,
+  "rows": 257
+ },
+ "WazimapIndicatorReader-1451ec166b": {
+  "fetched_at": "2026-11-20T12:34+00:00",
+  "label": "wazimap_indicator 1134:neet,1132:unemployment,1142:youth_poverty",
+  "ok": true,
+  "rows": 106635
+ },
+ "WazimapIndicatorReader-c442f495af": {
+  "fetched_at": "2026-11-20T12:30+00:00",
+  "label": "wazimap_indicator 3217:population,2797:households,2818:water,2821:toilet,2824:lighting,2822:cooking,2825:refuse,2817:dwelling,2782:education,2781:ecd",
+  "ok": true,
+  "rows": 422341
+ },
+ "cash": {
+  "fetched_at": "2026-11-20T12:38+00:00",
+  "label": "cash",
+  "ok": true,
+  "rows": 246
+ },
+ "census_extras": {
+  "fetched_at": "2026-11-20T12:38+00:00",
+  "label": "census_extras",
+  "ok": true,
+  "rows": 257
+ },
+ "creditors": {
+  "fetched_at": "2026-11-20T12:39+00:00",
+  "label": "creditors",
+  "ok": true,
+  "rows": 256
+ },
+ "debtors": {
+  "fetched_at": "2026-11-20T12:39+00:00",
+  "label": "debtors",
+  "ok": true,
+  "rows": 252
+ },
+ "gcro": {
+  "fetched_at": "2026-11-20T12:41+00:00",
+  "label": "gcro",
+  "ok": true,
+  "rows": 88
+ },
+ "grants": {
+  "fetched_at": "2026-11-20T12:41+00:00",
+  "label": "grants",
+  "ok": true,
+  "rows": 1913
+ },
+ "jobs_2025": {
+  "fetched_at": "2026-11-20T12:42+00:00",
+  "label": "jobs_2025",
+  "ok": true,
+  "rows": 213
+ },
+ "jobs_series": {
+  "fetched_at": "2026-11-20T12:42+00:00",
+  "label": "jobs_series",
+  "ok": true,
+  "rows": 1065
+ },
+ "matric": {
+  "fetched_at": "2026-11-20T12:42+00:00",
+  "label": "matric",
+  "ok": true,
+  "rows": 20328
+ },
+ "municipality_registry": {
+  "fetched_at": "2026-09-25T12:35+00:00",
+  "label": "municipality list (Spatial Tax, Treasury)",
+  "ok": true,
+  "rows": 272
+ },
+ "officials": {
+  "fetched_at": "2026-11-20T12:43+00:00",
+  "label": "officials",
+  "ok": true,
+  "rows": 1168
+ },
+ "population_2026": {
+  "fetched_at": "2026-11-20T12:43+00:00",
+  "label": "population_2026",
+  "ok": true,
+  "rows": 260
+ },
+ "schools": {
+  "error": "TypeError: Invalid value '<ArrowStringArray>\n[]\nLength: 0, dtype: str' for dtype 'float64'",
+  "failed_at": "2026-11-20T12:43+00:00",
+  "fetched_at": "2026-09-26T05:20+00:00",
+  "label": "schools",
+  "ok": false,
+  "rows": 25527
+ },
+ "siu": {
+  "error": "KeyError: 'date'",
+  "failed_at": "2026-11-20T12:44+00:00",
+  "fetched_at": "2026-09-26T05:20+00:00",
+  "label": "siu",
+  "ok": false,
+  "rows": 98
+ },
+ "srd_grants": {
+  "fetched_at": "2026-09-26T04:57+00:00",
+  "fetched_by": "za runner",
+  "label": "srd_grants",
+  "ok": true,
+  "rows": 213
+ },
+ "ward_councillors_2021": {
+  "fetched_at": "2026-11-20T12:44+00:00",
+  "label": "ward_councillors_2021",
+  "ok": true,
+  "rows": 4468
+ },
+ "ward_results_2024": {
+  "fetched_at": "2026-11-20T12:45+00:00",
+  "label": "ward_results_2024",
+  "ok": true,
+  "rows": 4468
+ },
+ "water_quality": {
+  "fetched_at": "2026-09-26T05:00+00:00",
+  "fetched_by": "za runner",
+  "label": "water_quality",
+  "ok": true,
+  "rows": 144
+ },
+ "year_to_date": {
+  "fetched_at": "2026-11-20T12:47+00:00",
+  "label": "year_to_date",
+  "ok": true,
+  "rows": 257
+ }
+}
